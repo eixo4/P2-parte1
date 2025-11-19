@@ -1,4 +1,3 @@
-// [ELIAS - TODO #15] Incluye el archivo de cabecera "Producto.h".
 #include "Producto.h"
 #include <iostream>
 
